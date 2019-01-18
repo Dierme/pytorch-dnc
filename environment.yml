@@ -1,0 +1,9 @@
+name: pytorch_dnc
+channels:
+  - conda-forge
+dependencies:
+  - pyflann
+  - pytorch
+  - numpy
+  - pytest
+  - visdom
